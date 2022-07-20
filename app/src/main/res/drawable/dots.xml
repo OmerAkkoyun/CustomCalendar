@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="center"
+        android:end="7dp"
+        android:tint="@android:color/holo_green_dark"
+        android:drawable="@drawable/calendar_dot_blue" >
+
+    </item>
+    <item  android:gravity="center"
+        android:start="7dp"
+        android:tint="@android:color/holo_red_dark"
+        android:drawable="@drawable/calendar_dot_red"  >
+
+    </item>
+
+</layer-list>
